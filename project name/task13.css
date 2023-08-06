@@ -1,0 +1,586 @@
+div{
+	height:2000px;
+	width:1500px;
+	background-color: whitesmoke;
+/*	margin:20px;*/
+}
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+.a{
+	height:400px;
+	width:1500px;
+	background-color:#A084E8;
+}
+.b{
+	height: 400px;
+	width:800px;
+	background-color:#9376E0;
+	float: left;
+	padding-left:100px;
+/*	padding-top:40px;*/
+}
+.d{
+	height:100px;
+	width:350px;
+	background-color: white;
+	margin-bottom:5px;
+}
+.f{
+	height:100px;
+	width:150px;
+	background-color: white;
+	margin-left:10px;
+	float:left;
+	text-align: center;
+	padding-top:10px;
+}
+.e{
+	height:100px;
+	width:150px;
+	background-color: white;
+	float:right;
+	margin-left:2px;
+	text-align: center;
+	padding-top:10px;
+}
+.c{
+	height:100px;
+	width:350px;
+	background-color: white;
+	margin:2px;
+}
+.h{
+	height:100px;
+	width:120px;
+	background-color: white;
+	float:left;
+	margin-right:1px;
+	text-align: center;
+	padding-top:10px;
+}
+.i{
+	height:100px;
+	width:120px;
+	background-color: white;
+	float:right;
+	text-align: center;
+	padding-top:10px;
+}
+.g{
+	height: 400px;
+	width:700px;
+	background-color:#A084E8 ;
+	float:right;
+	background-image: url("images/image4.avif");
+	background-size: cover;
+}
+.j{
+	height:400px;
+	width:797px;
+	background-color:blue;
+	float:left;
+	background-image: url("images/image2.avif");
+	background-sixe:cover;
+}
+.k{
+	height:400px;
+	width:703px;
+	background-color:whitesmoke;
+	float:right;
+	padding-top: 30px;
+	padding-left:50px;
+	padding-right:100px;
+	text-align:justify;
+}
+.o{
+	border:5px solid #DBC4F0;
+	border-radius:25px;
+	background-color: #DBC4F0;
+}
+.l{
+	color:gray;
+}
+.m
+{
+	color:black;
+}
+.n{
+	height:400px;
+	width:790px;
+	background-color:#060047;
+	float: left;
+}
+.r{
+	color:white;
+	padding-top:110px;
+	margin-left:100px;
+
+}
+.q{
+	color:pink;
+	text-align:justify;
+	margin-left:100px;
+}
+.p{
+	height:400px;
+	width:710px;
+	background-color:#512B81;
+	float: right;
+	background-image: url("images/image7.jpg");
+	background-size: cover;
+}
+span{
+	border:2px solid green;
+	border-radius:25px;
+	background-color: whte;
+}
+.v{
+	border:5px solid pink;
+	border-radius:15px;
+	background-color: pink;
+	color:white;
+	display:inline;
+	margin-left:100px;
+
+}
+.x{
+	border:5px solid skyblue;
+	border-radius:15px;
+	background-color: skyblue;
+	color:white;
+	display:inline;
+	float:left;
+
+}
+.y{
+	border:5px solid skyblue;
+	border-radius:15px;
+	background-color: skyblue;
+	color:white;
+	display:inline;
+	float:left;
+
+}
+.va{
+	height:200px;
+	width:1500px;
+	background-color:whitesmoke;
+	padding-top:50px;
+	float:left;
+	text-align:center;
+}
+.ho{
+	height:400px;
+	width:1400px;
+	background-color:whitesmoke;
+	padding-top:50px;
+	float:left;
+	margin-left:100px;
+
+}
+.lli{
+	height:200px;
+	width:1500px;
+	background-color:#3D246C;
+	float:left;
+	position:relative;
+
+}
+.rs{
+	height:400px;
+	width:400px;
+	background-color:white;
+	position:relative;
+	top:15px;
+	left:40px;
+	float:left;
+	margin:30px;
+	padding-top:30px;
+	padding-left:20px;
+	padding-right:20px;
+	text-align:center;
+}
+.hi{
+	height:400px;
+	width:400px;
+	background-color:white;
+	position:relative;
+	top:45px;
+	left:40px;
+	float:left;
+    margin-right:30px;
+    padding-top:30px;
+	padding-left:20px;
+	padding-right:20px;
+	text-align:center;
+}
+.vi{
+	height:400px;
+	width:400px;
+	background-color:white;
+	position:relative;
+	top:42px;
+	left:40px;
+	float:left;
+	padding-top:30px;
+	padding-left:20px;
+	padding-right:20px;
+	text-align:center;
+}
+.ma{
+	color:white;
+}
+.im{
+	height:200px;
+	width:1500px;
+	background-color:violet;
+	float:left;
+
+}
+.ni{
+	text-align:center;
+	color:white;
+}
+.ya{
+	height:200px;
+	width:1500px;
+	background-color:#3D246C;
+	float:left;
+}
+
+.ore{
+	color: gray;
+	text-align:center;
+}
+.kis{
+	height:200px;
+	width:300px;
+	background-color:white;
+	float:left;
+	margin-right:40px;
+
+}
+.ha{
+	text-align:center;
+
+}
+.is{
+	height:200px;
+	width:300px;
+	background-color:white;
+	float:left;
+	margin-right:40px;
+}
+.mm{
+	text-align:center;
+	
+}
+.in{
+	height:200px;
+	width:300px;
+	background-color:white;
+	float:left;
+}
+.hmm{
+	text-align:center;
+}
+.mani{
+	height:30px;
+	width:50px;
+	background-color:violet;
+	border:5px solid violet;
+	border-radius:20px;
+	display:inline;
+}
+.man{
+	height:30px;
+	width:50px;
+	background-color:violet;
+	border:5px solid violet;
+	border-radius:20px;
+	display:inline;
+}
+.mai{
+	height:30px;
+	width:50px;
+	background-color:violet;
+	border:5px solid violet;
+	border-radius:20px;
+	display:inline;
+}
+.valli{
+	height: 500px;
+	width:1500px;
+	background-color:whitesmoke;
+	float: left;
+	padding-left:100px;
+	color:gray;
+	text-align:center;
+	padding-top:50px;
+}
+.anu{
+	height:20px;
+	width:30px;
+	background-color:violet;
+	border:5px solid violet;
+	border-radius:20px;
+	display:inline;
+	color:black;
+
+}
+.panda{
+	color:black;
+}
+.honey{
+	text-align:center;
+	color:black;
+
+}
+.sam{
+	font-family:serif;
+	display:inline;
+	margin-right:10px;
+	color:black;
+}
+.samee{
+	font-family:cursive;
+	display:inline;
+	margin-right:10px;
+	color:black;
+}
+.bestie{
+	font-family:sans-serif;
+	display:inline;
+	margin-right:10px;
+	color:black;
+}
+.frnd{
+	font-family:fantasy;
+	display:inline;
+	margin-right:10px;
+	color:black;
+}
+.prend{
+	font-family:monospace;
+	display:inline;
+	color:black;
+}
+.vinnu{
+	height:850px;
+	width:400px;
+	background-color:#3D246C;
+	float:left;
+}
+.siri{
+	height:250px;
+	width:250px;
+	background-color:white;
+	float:left;
+	position:relative;
+	top:30px;
+	left:270px;
+}
+.bro{
+	height:250px;
+	width:250px;
+	background-color:white;
+	float:left;
+	position:relative;
+	top:50px;
+	left:270px;
+}
+.sir{
+	height:250px;
+	width:250px;
+	background-color:white;
+	float:left;
+	position:relative;
+	top:30px;
+	left:180px;
+	
+}
+.broh{
+	height:250px;
+	width:250px;
+	background-color:white;
+	float:left;
+	position:relative;
+	top:50px;
+	left:180px;
+}
+.sis{
+	height:250px;
+	width:250px;
+	background-color:white;
+	float:left;
+	position:relative;
+	top:30px;
+	left:180px;
+	
+}
+.sista{
+	height:250px;
+	width:250px;
+	background-color:white;
+	float:left;
+	position:relative;
+	top:280px;
+	right:70px;
+}
+
+.vin{
+	height:850px;
+	width:300px;
+	background-color:violet;
+	float:left;
+}
+.bless{
+	height:290px;
+	width:300px;
+	background-color:white;
+	position:relative;
+	top:30px;
+	left:600px;
+	border:1px solid blue;
+	float:left;
+}
+.mom{
+	height:850px;
+	width:819px;
+	background-color:#3D246C;
+	float:right;
+	padding-right:2px;
+}
+.pav{
+	text-align:center;
+	padding-left:10px;
+	margin:10px;
+	padding-left:5px;
+}
+.w2{
+	text-align:justify;
+	margin:10px;
+	padding-left:5px;
+}
+.w4{
+	height:300px;
+	width:1500px;
+	background-color:#3D246C;
+	float:left;
+}
+.w5{
+	height:600px;
+	width:1500px;
+	background-color:whitesmoke;
+	float:left;
+}
+.w6{
+	height:750px;
+	width:1500px;
+	background-color:#3D246C;
+	float:left;
+	padding-left:100px;
+	padding-top:80px;
+}
+.var{
+	height:550px;
+	width:650px;
+	background-color: #A084E8;
+	float:left;
+	padding-left:40px;
+	padding-top:20px;
+	padding-right:10px;
+	color:white;
+
+}
+.tya{
+	height:550px;
+	width:650px;
+	background-color: white;
+	float:left;
+	padding-top: 40px;
+	padding-left:50px;
+	margin:bottom;
+
+
+}
+.w7{
+	height:200px;
+	width:1500px;
+	background-color:#272829;
+	float:left;
+	padding-left:530px;
+	color:white;
+	padding-top:40px;
+	font-family: sans-serif;
+
+}
+.draksha{
+	color:violet;
+	font-family: sans-serif;
+}
+.maa{
+	color:violet;
+	font-family: sans-serif;
+}
+.akki{
+	height:30px;
+	width:570px;
+	background-color:whitesmoke;
+}
+.akka{
+	height:30px;
+	width:570px;
+	background-color:whitesmoke;
+}
+
+.chelli{
+	height:30px;
+	width:570px;
+	background-color:whitesmoke;
+}
+.amma{
+	height:100px;
+	width:570px;
+	background-color:whitesmoke;
+}
+.nanna{
+	height:40px;
+	width:200px;
+	background-color: #A084E8;
+
+}
+.rishi{
+	height:20px;
+	width:90px;
+	background-color: #A084E8;
+}
+.varshi{
+	height:450px;
+	width:400px;
+	background-color: white;
+	position:relative;
+	top:60px;
+	left:80px;
+}
+.harshi{
+	height:450px;
+	width:400px;
+	background-color: white;
+	position:relative;
+	top:60px;
+	left:200px;
+}
+.vasanth{
+	height:400px;
+	width:450px;
+	background-color: white;
+	position:relative;
+	top:1px;
+	left:800px;
+}
+
+
